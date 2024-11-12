@@ -5,16 +5,16 @@ The assembly process involved several steps:
 1. First, place the CPU fan on top of the CPU and secure it with screws using a screwdriver. 
 2. Next, install the hard disk properly.
 
-
+![image](https://github.com/user-attachments/assets/0989366a-87b6-4990-8319-6209d4c71abd)
 
 3. Then, insert the RAM into the motherboard.
 
-
+![image](https://github.com/user-attachments/assets/8afa0491-b463-4ea4-ab02-de2309c10787)
 
 4. Press it firmly until a "click" sound confirms it is securely in place. 
 5. Install the power supply unit by screwing it into position.
 
-
+![image](https://github.com/user-attachments/assets/de02c317-11fe-4d84-9fcb-7994e59413cb)
 
 6. Afterward, connect all necessary cables to the motherboard, hard disks, and power supply unit. 
 7. Once the components are in place, close the case. 
@@ -30,5 +30,7 @@ With the monitor successfully turning on, we confirmed our assembly was correct 
 | Hard disk  | stores data and information permanently  |
 | Power supply unit  | provides the necessary electricity to power all components |
 | Cables  | connect the components, so that the components can communicate and work together effectively  |
+
+![image](https://github.com/user-attachments/assets/308f3740-9bb6-4644-b127-b9a9b15e9391) ![image](https://github.com/user-attachments/assets/f06ebd15-1009-4aeb-a0f6-9c7c3afaba98)
 
 Through this activity, I gained hands-on experience in assembling and disassembling a PC. Besides, I also developed a better understanding of each component's function, which contributes to the overall operation of a computer.
