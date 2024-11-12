@@ -3,18 +3,19 @@ PC assembly activity was conducted in the N28 Level 3 laboratory room on 6/11/20
 
 The assembly process involved several steps: 
 1. First, place the CPU fan on top of the CPU and secure it with screws using a screwdriver. 
-2. Next, install the hard disk properly.
-
-![image](https://github.com/user-attachments/assets/0989366a-87b6-4990-8319-6209d4c71abd)
+2. Next, install the hard disk properly.   
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/0989366a-87b6-4990-8319-6209d4c71abd" width="200" height="200"/>
+</p>
 
 3. Then, insert the RAM into the motherboard.
-
-![image](https://github.com/user-attachments/assets/8afa0491-b463-4ea4-ab02-de2309c10787)
+<p align="center">
+<img src = "https://github.com/user-attachments/assets/8afa0491-b463-4ea4-ab02-de2309c10787" width="350" height="200"/>
 
 4. Press it firmly until a "click" sound confirms it is securely in place. 
 5. Install the power supply unit by screwing it into position.
-
-![image](https://github.com/user-attachments/assets/de02c317-11fe-4d84-9fcb-7994e59413cb)
+<p align="center">
+<img src = "https://github.com/user-attachments/assets/de02c317-11fe-4d84-9fcb-7994e59413cb" width="200" height="300"/>
 
 6. Afterward, connect all necessary cables to the motherboard, hard disks, and power supply unit. 
 7. Once the components are in place, close the case. 
@@ -30,8 +31,9 @@ With the monitor successfully turning on, we confirmed our assembly was correct 
 | Hard disk  | stores data and information permanently  |
 | Power supply unit  | provides the necessary electricity to power all components |
 | Cables  | connect the components, so that the components can communicate and work together effectively  |
-
-![image](https://github.com/user-attachments/assets/a997c1dd-6b37-4380-8931-d421fd501169)
-![image](https://github.com/user-attachments/assets/ba3d5bc6-68c8-4249-a24c-39a1f7f9ea66)
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/a997c1dd-6b37-4380-8931-d421fd501169" width="350" height="200"/>
+  <img src = "https://github.com/user-attachments/assets/ba3d5bc6-68c8-4249-a24c-39a1f7f9ea66" width="350" height="200"/>
+</p>
 
 Through this activity, I gained hands-on experience in assembling and disassembling a PC. Besides, I also developed a better understanding of each component's function, which contributes to the overall operation of a computer.
