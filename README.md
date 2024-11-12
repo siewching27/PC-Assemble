@@ -31,6 +31,7 @@ With the monitor successfully turning on, we confirmed our assembly was correct 
 | Power supply unit  | provides the necessary electricity to power all components |
 | Cables  | connect the components, so that the components can communicate and work together effectively  |
 
-![image](https://github.com/user-attachments/assets/308f3740-9bb6-4644-b127-b9a9b15e9391) ![image](https://github.com/user-attachments/assets/f06ebd15-1009-4aeb-a0f6-9c7c3afaba98)
+![image](https://github.com/user-attachments/assets/a997c1dd-6b37-4380-8931-d421fd501169)
+![image](https://github.com/user-attachments/assets/ba3d5bc6-68c8-4249-a24c-39a1f7f9ea66)
 
 Through this activity, I gained hands-on experience in assembling and disassembling a PC. Besides, I also developed a better understanding of each component's function, which contributes to the overall operation of a computer.
