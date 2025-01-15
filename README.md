@@ -36,6 +36,7 @@ With the monitor successfully turning on, we confirmed our assembly was correct 
   <img src = "https://github.com/user-attachments/assets/ba3d5bc6-68c8-4249-a24c-39a1f7f9ea66" width="350" height="200"/>
 </p>
 
+**Reflection**
 Through this activity, I gained hands-on experience in assembling and disassembling a PC. Besides, I also developed a better understanding of each component's function, which contributes to the overall operation of a computer. Before this experience, I only knew how to use the system software inside a computer and was unaware of how each hardware component contributed to making it work. I now realize that I took hardware for granted, knowing little about its importance beyond basic peripherals like the keyboard and monitor 🤔.
 
 This activity gave me a deeper understanding of the critical interconnection between hardware and software. If anything goes wrong with the hardware, the software cannot function properly. Thus, I now understand the importance of taking good care of hardware components to ensure their longevity and overall efficiency. For instance, I will protect my system from potential threats such as physical damage, power surges, and infected USB drives to ensure that my hardware remains secure and reliable.
