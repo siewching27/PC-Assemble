@@ -28,8 +28,9 @@ The assembly process involved several steps: <br>
 
 With the monitor successfully turning on, we confirmed our assembly was correct and were the **first group** to complete it. 🎉
 
-***
-<h3>🛠️ **PC Components and Their Functions**</h3>
+##
+
+<h3>🛠️ PC Components and Their Functions</h3>
 
 |Component | Function|
 | ------------- | ------------- |
