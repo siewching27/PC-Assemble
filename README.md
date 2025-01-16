@@ -1,8 +1,8 @@
-# PC-Assemble
+# 💻PC-Assemble
 PC assembly activity was conducted in the N28 Level 3 laboratory room on 6/11/2024 (Wed) . Students were required to worked in groups of six with the guidance of technicians who taught us the steps of disassembling a PC. Afterward, we were tasked with reassembling the PC ourselves in group.
 
 The assembly process involved several steps: 
-1. First, place the CPU fan on top of the CPU and secure it with screws using a screwdriver. 
+1. First, place the ❄️CPU fan on top of the 🧠CPU and secure it with screws using a screwdriver. 
 2. Next, install the hard disk properly.   
 <p align="center">
   <img src = "https://github.com/user-attachments/assets/0989366a-87b6-4990-8319-6209d4c71abd" width="200" height="200"/>
