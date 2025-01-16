@@ -1,9 +1,9 @@
 # 💻PC-Assemble
 
 🗓️ Details of the Activity<br>
-📍 Location: N28 Level 3 Laboratory Room<br>
-📅 Date: 6th November 2024 (Wednesday)<br>
-👥 Group Size: 6 Students
+• 📍 Location: N28 Level 3 Laboratory Room<br>
+• 📅 Date: 6th November 2024 (Wednesday)<br>
+• 👥 Group Size: 6 Students
 
 
 The assembly process involved several steps: <br>
